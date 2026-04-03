@@ -16,6 +16,8 @@ Additionally, the sensor data was used as input for a simple Java application, w
 
 ## Tinkercad model
 
+<img width="803" height="723" alt="Image" src="https://github.com/user-attachments/assets/68ffada8-fcf3-4227-89ce-e921dbfd6c8d" />
+
 ## Video presentation of the prototype
 
 If you would like to see the prototype in action, a [video presentation](https://www.youtube.com/watch?v=PIjZ2ib99bc) is available on my academic YouTube channel.
